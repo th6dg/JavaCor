@@ -1,14 +1,14 @@
 # Control Statement
-![Image](img_1.png)
+<img src="img_1.png" width="2000"/>
 
 # OOP
-![Image](img_5.png)
+<img src="img_5.png" width="2000"/>
 
 # Data Processing 1
-![Image](img_2.png)
+<img src="img_2.png" width="2000"/>
 
 # Data Processing 2
-![Image](img_3.png)
+<img src="img_3.png" width="2000"/>
 
 # Advance
-![Image](img_4.png)
+<img src="img_4.png" width="2000"/>
