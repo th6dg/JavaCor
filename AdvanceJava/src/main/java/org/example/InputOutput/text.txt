@@ -1,0 +1,14 @@
+3. Các khái niệm quan trọng
+a. Stream (Luồng dữ liệu)
+Input Stream: Luồng dữ liệu đi vào (đọc).
+Output Stream: Luồng dữ liệu đi ra (ghi).
+Có 2 loại stream chính:
+
+Byte Stream (InputStream, OutputStream) → xử lý dữ liệu nhị phân (hình ảnh, video, file nén…).
+Character Stream (Reader, Writer) → xử lý dữ liệu dạng văn bản (text).
+b. Các lớp chính trong java.io
+Byte Streams: FileInputStream, FileOutputStream → đọc/ghi file dạng nhị phân.
+Character Streams: FileReader, FileWriter → đọc/ghi file dạng text.
+Buffered Streams: BufferedReader, BufferedWriter → tăng hiệu suất khi đọc/ghi.
+Data Streams: DataInputStream, DataOutputStream → đọc/ghi dữ liệu nguyên thủy (int, double, boolean…).
+Object Streams: ObjectInputStream, ObjectOutputStream → đọc/ghi đối tượng (serialization).
