@@ -2,7 +2,7 @@
 ![Image](img_1.png)
 
 # OOP
-![Image](img.png)
+![Image](img_5.png)
 
 # Data Processing 1
 ![Image](img_2.png)
